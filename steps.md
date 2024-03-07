@@ -31,3 +31,6 @@
     - after deleting copy `package.json` and `package-lock.json` from the git (https://github.com/akashyap2013/MERN_Login_App_with_ResetEmail/blob/Main/client/package.json) to the client folder
     - then run `npm install` in the client folder
     - this will install the correct version of the packages
+
+- install `tailwindcss intellisense extension` so that the selected class will be shown in the intellisense in the vs code
+    - after adding restart the vscode  so for the extension to take effect
